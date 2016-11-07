@@ -1,0 +1,12 @@
+Package: com.repo.xarold.com.lylac
+Name: Lylac
+Version: 1.0.10k
+Architecture: iphoneos-arm
+Description: enhance iOS 9 app switcher and more
+Depiction: http://https://github.com/sanjay7992/sanjay7992.git
+Author: Gary niL
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, applist
+Conflicts: tw.garynil.swipehome, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.skylerk99.rehctiws, org.thebigboss.slide2kill9, com.repo.xarold.com.slide2kill9, org.thebigboss.switchertweakpro, com.repo.xarold.com.switchertweakpro, me.chewitt.seng, com.repo.xarold.com.seng
+Icon: file:///Library/PreferenceBundles/Lylac.bundle/icon@2x.png
+
